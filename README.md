@@ -4,21 +4,10 @@ Welcome to NewsApp! This iOS application delivers the latest news articles fetch
 
 ## 🌟 Features
 
-### Home Screen
-- **Latest News**: The home screen dynamically fetches and presents the most recent news articles.
-- **Comprehensive Details**: Each news item is displayed with the title, author, and publication date, offering a clear and concise overview.
-
-### Category Pages
-- **Diverse News Categories**: Dedicated pages for various news categories such as Politics, Sports, and Technology.
-- **Structured Presentation**: Articles are systematically organized within each category for straightforward navigation.
-
-### Search Functionality
-- **Advanced Search**: Users can search for specific news articles using relevant keywords.
-- **Precise Results**: The search functionality returns articles that accurately match the user's query.
-
-### Enhanced User Experience
-- **Responsive Design**: The app ensures an optimal viewing experience across a range of devices, including mobile phones, tablets, and desktops.
-- **Search History**: Users' search queries are saved locally, allowing them to easily revisit previous searches.
+- **Home Screen**: Displays the most recent news articles with title, author, and publication date.
+- **Category Pages**: Separate pages for various news categories such as Politics, Sports, and Technology.
+- **Search Functionality**: Allows users to search for specific news articles using keywords.
+- **Enhanced User Experience**: Responsive design for various devices and local search history storage.
 
 ## 📸 Screenshots
 
