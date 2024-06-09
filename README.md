@@ -16,7 +16,7 @@ Welcome to NewsApp! This iOS application delivers the latest news articles fetch
 - **Advanced Search**: Users can search for specific news articles using relevant keywords.
 - **Precise Results**: The search functionality returns articles that accurately match the user's query.
 
-### Bonus Features
+### Enhanced User Experience
 - **Responsive Design**: The app ensures an optimal viewing experience across a range of devices, including mobile phones, tablets, and desktops.
 - **Search History**: Users' search queries are saved locally, allowing them to easily revisit previous searches.
 
