@@ -11,9 +11,10 @@ Welcome to NewsApp! This iOS application delivers the latest news articles fetch
 
 ## 📸 Screenshots
 
-| Home Screen | Category Page | Search Functionality |
-|:-----------:|:-------------:|:--------------------:|
-| <img src="https://github.com/monish-instinct/ECell-Technical/assets/113701884/b5c64816-0e04-477d-99c2-bf77f7aa07cd" width="250" height="500"> | <img src="https://github.com/monish-instinct/ECell-Technical/assets/113701884/8116e7d3-e8ec-4630-8658-632ea39ba74a" width="250" height="500"> | <img src="https://github.com/monish-instinct/ECell-Technical/assets/113701884/aaa5528a-ae2c-41f0-b12c-b624d825379d" width="250" height="500"> |
+| Home Screen | Category Page | Search Functionality | Article Detail |
+|:-----------:|:-------------:|:--------------------:|:--------------:|
+| <img src="https://github.com/monish-instinct/ECell-Technical/assets/113701884/b5c64816-0e04-477d-99c2-bf77f7aa07cd" width="250" height="500"> | <img src="https://github.com/monish-instinct/ECell-Technical/assets/113701884/8116e7d3-e8ec-4630-8658-632ea39ba74a" width="250" height="500"> | <img src="https://github.com/monish-instinct/ECell-Technical/assets/113701884/aaa5528a-ae2c-41f0-b12c-b624d825379d" width="250" height="500"> | <img src="https://github.com/monish-instinct/ECell-Technical/assets/113701884/aaa5528a-ae2c-41f0-b12c-b624d825379d" width="250" height="500"> |
+
 
 ---
 
