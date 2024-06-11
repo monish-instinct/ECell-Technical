@@ -30,7 +30,7 @@ Welcome to NewsApp! This iOS application delivers the latest news articles fetch
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/NewsApp.git
+    git clone https://github.com/monish-instinct/ECell-Technical.git
     ```
 2. Open the project in Xcode:
     ```bash
