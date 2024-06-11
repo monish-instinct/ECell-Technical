@@ -11,9 +11,13 @@ Welcome to NewsApp! This iOS application delivers the latest news articles fetch
 
 ## 📸 Screenshots
 
+| Light Mode | Dark Mode |
+|------------|-----------|
+| ![Light Mode](images/light_mode.png){height=200px} | ![Dark Mode](images/dark_mode.png){height=200px} |
+
 | Home Screen | Category Page | Search Functionality |
 |-------------|---------------|----------------------|
-| ![Home Screen](images/home_screen.png) | ![Category Page](images/category_page.png) | ![Search Functionality](images/search_functionality.png) |
+| ![Home Screen](images/home_screen.png){height=200px} | ![Category Page](images/category_page.png){height=200px} | ![Search Functionality](images/search_functionality.png){height=200px} |
 
 ## 🚀 Getting Started
 
