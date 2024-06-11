@@ -13,7 +13,7 @@ Welcome to NewsApp! This iOS application delivers the latest news articles fetch
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![Light Mode](https://github.com/monish-instinct/ECell-Technical/assets/113701884/c6666bc9-cf3a-4d23-95e8-e4f86f1cdab1) | ![Dark Mode](images/dark_mode.png) |
+| ![Light Mode](https://github.com/monish-instinct/ECell-Technical/assets/113701884/c6666bc9-cf3a-4d23-95e8-e4f86f1cdab1) | ![Dark Mode](https://github.com/monish-instinct/ECell-Technical/assets/113701884/76f64570-cdd6-40c9-a1aa-112132d353a3) |
 
 | Home Screen | Category Page | Search Functionality |
 |-------------|---------------|----------------------|
