@@ -1,6 +1,6 @@
-# 📰 NewsApp
+# 📰 Optical News
 
-Welcome to NewsApp! This iOS application delivers the latest news articles fetched from a reliable API, providing users with an intuitive and responsive platform to stay informed about current events.
+Welcome to Optical News! This iOS application delivers the latest news articles fetched from a reliable API, providing users with an intuitive and responsive platform to stay informed about current events.
 
 ## 🌟 Features
 
