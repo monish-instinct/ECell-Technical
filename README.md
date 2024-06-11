@@ -17,7 +17,7 @@ Welcome to NewsApp! This iOS application delivers the latest news articles fetch
 
 | Home Screen | Category Page | Search Functionality |
 |-------------|---------------|----------------------|
-| ![Home Screen](images/home_screen.png){height=200px} | ![Category Page](images/category_page.png) | ![Search Functionality](images/search_functionality.png) |
+| ![Home Screen](images/home_screen.png) | ![Category Page](images/category_page.png) | ![Search Functionality](images/search_functionality.png) |
 
 ## 🚀 Getting Started
 
