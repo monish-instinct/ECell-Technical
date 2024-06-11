@@ -36,7 +36,6 @@ struct ArticleDetailView: View {
 
                 if let content = article.content {
                     if content.contains("[+") {
-                        // Replace truncated content with full content
                         let fullContent = content.replacingOccurrences(of: "[+...]", with: "")
                         Text(fullContent)
                             .font(.body)
