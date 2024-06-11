@@ -24,7 +24,7 @@ struct ContentView: View {
                 }
         }
         .accentColor(.blue)
-                .transition(.slide)  // Add transition animation
-                .animation(.easeInOut(duration: 0.5))  // Add animation
+                .transition(.slide)
+                .animation(.easeInOut(duration: 0.5))
     }
 }
