@@ -18,9 +18,9 @@ Welcome to Optical News! This iOS application delivers the latest news articles 
 
 ---
 
-| Light Mode | Dark Mode |
-|:-----------:|:---------:|
-| <img src="https://github.com/monish-instinct/ECell-Technical/assets/113701884/a423136d-e493-4d6e-a56b-01c7bc4cb270" width="200" height="400"> | <img src="https://github.com/monish-instinct/ECell-Technical/assets/113701884/df07aa36-135a-4ae8-b608-de8d37a69551" width="200" height="400"> |
+| Light Mode | Dark Mode | Overview |
+|:-----------:|:--------:|:--------:|
+| <img src="https://github.com/monish-instinct/ECell-Technical/assets/113701884/a423136d-e493-4d6e-a56b-01c7bc4cb270" width="200" height="400"> | <img src="https://github.com/monish-instinct/ECell-Technical/assets/113701884/df07aa36-135a-4ae8-b608-de8d37a69551" width="200" height="400"> | <img src="https://github.com/monish-instinct/ECell-Technical/assets/113701884/4191a8a6-88c0-4a15-b413-eeb68ed68d9f" wifth="200" height="400">
 
 ## 🚀 Getting Started
 
