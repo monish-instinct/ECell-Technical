@@ -17,7 +17,7 @@ Welcome to NewsApp! This iOS application delivers the latest news articles fetch
 
 | Home Screen | Category Page | Search Functionality |
 |-------------|---------------|----------------------|
-| ![Home Screen](images/home_screen.png) | ![Category Page](images/category_page.png) | ![Search Functionality](images/search_functionality.png) |
+| ![Home Screen](https://github.com/monish-instinct/ECell-Technical/assets/113701884/b5c64816-0e04-477d-99c2-bf77f7aa07cd) | ![Category Page](images/category_page.png) | ![Search Functionality](images/search_functionality.png) |
 
 ## 🚀 Getting Started
 
