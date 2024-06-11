@@ -11,16 +11,16 @@ Welcome to NewsApp! This iOS application delivers the latest news articles fetch
 
 ## 📸 Screenshots
 
-| Home Screen | Category Page | Search Functionality |
-|:-----------:|:-------------:|:--------------------:|
-| <img src="https://github.com/monish-instinct/ECell-Technical/assets/113701884/b5c64816-0e04-477d-99c2-bf77f7aa07cd" width="200" height="400"> | <img src="https://github.com/monish-instinct/ECell-Technical/assets/113701884/8116e7d3-e8ec-4630-8658-632ea39ba74a" width="200" height="400"> | <img src="https://github.com/monish-instinct/ECell-Technical/assets/113701884/aaa5528a-ae2c-41f0-b12c-b624d825379d" width="200" height="400"> |
+| Home Screen | Category Page | Search Functionality | Article Detail |
+|:-----------:|:-------------:|:--------------------:|:--------------:|
+| <img src="https://github.com/monish-instinct/ECell-Technical/assets/113701884/b5c64816-0e04-477d-99c2-bf77f7aa07cd" width="200" height="400"> | <img src="https://github.com/monish-instinct/ECell-Technical/assets/113701884/8116e7d3-e8ec-4630-8658-632ea39ba74a" width="200" height="400"> | <img src="https://github.com/monish-instinct/ECell-Technical/assets/113701884/aaa5528a-ae2c-41f0-b12c-b624d825379d" width="200" height="400"> | <img src="https://github.com/monish-instinct/ECell-Technical/assets/113701884/0c02990e-c1a8-429e-94bd-b8abf303c240" width="200" height="400"> |
 
 
 ---
 
-| Article Detail | Light Mode | Dark Mode |
-|:--------------:|:-----------:|:---------:|
-| <img src="https://github.com/monish-instinct/ECell-Technical/assets/113701884/0c02990e-c1a8-429e-94bd-b8abf303c240" width="200" height="400"> | <img src="https://github.com/monish-instinct/ECell-Technical/assets/113701884/a423136d-e493-4d6e-a56b-01c7bc4cb270" width="200" height="400"> | <img src="https://github.com/monish-instinct/ECell-Technical/assets/113701884/df07aa36-135a-4ae8-b608-de8d37a69551" width="200" height="400"> |
+| Light Mode | Dark Mode |
+|:-----------:|:---------:|
+| <img src="https://github.com/monish-instinct/ECell-Technical/assets/113701884/a423136d-e493-4d6e-a56b-01c7bc4cb270" width="200" height="400"> | <img src="https://github.com/monish-instinct/ECell-Technical/assets/113701884/df07aa36-135a-4ae8-b608-de8d37a69551" width="200" height="400"> |
 
 ## 🚀 Getting Started
 
