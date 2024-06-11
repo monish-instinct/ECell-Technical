@@ -52,4 +52,4 @@ We welcome contributions! Please fork the repository and submit pull requests.
 
 ## 📬 Contact
 
-For any inquiries or issues, please contact [your-pjmonish@icloud.com](mailto:pjmonish@icloud.com).
+For any inquiries or issues, please contact [pjmonish@icloud.com](mailto:pjmonish@icloud.com).
