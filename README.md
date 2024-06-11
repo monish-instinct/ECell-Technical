@@ -35,7 +35,7 @@ Welcome to NewsApp! This iOS application delivers the latest news articles fetch
     ```
 2. Open the project in Xcode:
     ```bash
-    cd NewsApp
+    cd ECell-Technical
     open NewsApp.xcodeproj
     ```
 3. Build and run the project on your simulator or iOS device.
